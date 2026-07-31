@@ -1,2 +1,3 @@
 # demo
-Just for Practice
+'''bash
+firewall-cmd --add-port=80
