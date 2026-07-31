@@ -1,10 +1,10 @@
 
 # demo
-<b>update the package</b>
+*update the package*
 ```bash
 apt-get update
 ```
-> Enable http port in Firewall
+**Enable http port in Firewall**
 ```bash
 firewall-cmd --add-port=80
 ```
