@@ -1,6 +1,6 @@
 
 # demo
-update the package
+<b>update the package<b>
 ```bash
 apt-get update
 ```
